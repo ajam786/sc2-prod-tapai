@@ -11,7 +11,7 @@ spec:
     git:
       url: https://github.com/ajam786/sc2-prod-tapai.git
       ref:
-        branch: test
+        branch: build
   build:
     env:
     - name: BP_JVM_VERSION
